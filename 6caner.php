@@ -1,13 +1,12 @@
 <?php
 /* 
 Plugin Name: 6caner - PHP Malcode Scanner
-Plugin URI: https://github.com/6ickzone/6caner
+Plugin URI: https://github.com/6ickzone/6ecaner
 Description: 6caner is a lightweight PHP scanner for detecting common malware patterns such as eval(base64_decode()), system(), shell_exec(), etc.
 Version: 1.0
 Author: Michael Stowe, 0x6ick (6ickZone)
 License: GPL-2.0
 */
-
 /*
 ╔═╗┬ ┬┌─┐┌─┐┌┬┐┌─┐┌─┐
 ║  ├─┤├┤ ├─┤ │ ├┤ └─┐
